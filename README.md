@@ -18,7 +18,7 @@ Bu proje, bir kullanıcı giriş sürecinin algoritmasını ve akış diyagramı
 
 ## Akış Diyagramı
 
-![Kullanıcı giriş akış diyagramı](AlgoritmaM.jpg)
+![Kullanıcı giriş akış diyagramı](flowchart.png)
 
 ## Test Senaryoları
 
